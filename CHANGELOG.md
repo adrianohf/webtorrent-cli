@@ -1,3 +1,10 @@
+## [6.0.1](https://github.com/webtorrent/webtorrent-cli/compare/v6.0.0...v6.0.1) (2026-08-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency webtorrent to v3 ([#352](https://github.com/webtorrent/webtorrent-cli/issues/352)) ([29bef29](https://github.com/webtorrent/webtorrent-cli/commit/29bef297a3b4f68cb97ba89a531369e9ff7eec52))
+
 # [6.0.0](https://github.com/webtorrent/webtorrent-cli/compare/v5.1.3...v6.0.0) (2026-04-14)
 
 
